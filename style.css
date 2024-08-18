@@ -1,0 +1,42 @@
+body{
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Matemasie", sans-serif;
+    margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 1px red;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(236, 20, 20);
+}
+
+#video{
+    padding: 80px;
+    display: flex;
+    background: rgba(219, 42, 42, 0.747);
+}
+
+.texto{
+    height: 100px;
+    padding: 80px;
+    
+}
+.video img{
+    height: 200px;
+    padding: 80px;
+    opacity: 0.2;
+
+}
+
+.video img:hover{
+opacity: 1.0;
+}
+
+#text2{
+    padding: 40px;
+    padding-top: 20px;
+    color: blue;
+}
